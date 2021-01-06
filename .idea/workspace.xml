@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fcc81a7-7ed2-4a3e-9582-a634e078e142" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/flutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/startup_namer/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/startup_namer/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup_namer/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/startup_namer/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup_namer/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/startup_namer/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +51,25 @@
       <option name="presentableId" value="Default" />
       <updated>1609896976854</updated>
     </task>
+    <task id="LOCAL-00001" summary="Step2. 外部パッケージの使用">
+      <created>1609898502645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609898502645</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Step2. 外部パッケージの使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step2. 外部パッケージの使用" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="278" y="25" key="CommitChangelistDialog2" timestamp="1609898502403">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="278" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1609898502403" />
     <state x="590" y="354" key="Github.ShareDialog" timestamp="1609897075167">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -85,5 +98,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1609897336967" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609898796747">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609898796747" />
+    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609898749183">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1609898749183" />
   </component>
 </project>
