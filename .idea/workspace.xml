@@ -65,19 +65,27 @@
       <option name="project" value="LOCAL" />
       <updated>1609900960962</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Step4. 無限スクロールListViewの作成">
+      <created>1609904530487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609904530488</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Step2. 外部パッケージの使用" />
     <MESSAGE value="Step3. ステートフルウィジェットの追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step3. ステートフルウィジェットの追加" />
+    <MESSAGE value="Step4. 無限スクロールListViewの作成" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step4. 無限スクロールListViewの作成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="25" key="CommitChangelistDialog2" timestamp="1609900960755">
+    <state x="278" y="25" key="CommitChangelistDialog2" timestamp="1609904530285">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="278" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1609900960755" />
+    <state x="278" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1609904530285" />
     <state x="590" y="354" key="Github.ShareDialog" timestamp="1609897075167">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -106,13 +114,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1609897336967" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609900977852">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609904540620">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609900977852" />
-    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609898749183">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609904540620" />
+    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609904489780">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1609898749183" />
+    <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1609904489780" />
   </component>
 </project>
