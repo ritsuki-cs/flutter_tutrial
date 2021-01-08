@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610077043645</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Step5. ハートアイコンを押せるように更新">
+      <created>1610077902056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610077902056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -87,13 +94,14 @@
     <MESSAGE value="Step3. ステートフルウィジェットの追加" />
     <MESSAGE value="Step4. 無限スクロールListViewの作成" />
     <MESSAGE value="Step5. リストにお気に入り（ハート）アイコンを追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step5. リストにお気に入り（ハート）アイコンを追加" />
+    <MESSAGE value="Step5. ハートアイコンを押せるように更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step5. ハートアイコンを押せるように更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="25" key="CommitChangelistDialog2" timestamp="1610077043454">
+    <state x="278" y="25" key="CommitChangelistDialog2" timestamp="1610077901870">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="278" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1610077043454" />
+    <state x="278" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1610077901870" />
     <state x="590" y="354" key="Github.ShareDialog" timestamp="1609897075167">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -122,10 +130,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1609897336967" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1610077061881">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1610077906806">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1610077061881" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1610077906806" />
     <state x="503" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609904489780">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
